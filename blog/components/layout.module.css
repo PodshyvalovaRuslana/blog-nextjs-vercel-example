@@ -1,0 +1,16 @@
+.header {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header__link {
+  position: absolute;
+  top: 50px;
+  right: 150px;
+  display: inline-block;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}

@@ -1,0 +1,29 @@
+.blog__heading {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.blog__description {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.posts__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.posts__item {
+  margin: 0 0 1.25rem;
+  background-color: cornsilk;
+}
+
+.posts__item-title {
+  font-style: italic;
+}
+
+.posts__item-title:hover {
+  text-decoration: underline;
+}
